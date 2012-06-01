@@ -1,0 +1,1 @@
+This repo is a collection of experiments in using non-Roman languages in plain text. My hope is to be able to use GitHub to share plain-text documents using biblical Hebrew and Greek.
